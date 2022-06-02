@@ -1,10 +1,10 @@
 {
 
-//"spider": "img+https://www.imagebam.com/view/MEB4511",
-"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/fenghe/m0601_sj_pg.jar",
+"spider": "img+http://inews.gtimg.com/newsapp_ls/0/14967632106/0",
+
 "wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
 "sites" : [
-//{"name" : "究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱. 特别感谢所有源原作者"},
+
 {"name" : "📺 爬虫"},
 //{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"🏩 七七","type":3},
