@@ -1,12 +1,12 @@
 {
 
 "spider": "img+http://inews.gtimg.com/newsapp_ls/0/14967632106/0",
-//"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/fenghe/m0601_sj_pg.jar",
+
 "wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
 "sites" : [
 
 {"name" : "📺 爬虫"},
-{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
+
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"🏩 七七","type":3},
 {"api":"csp_LiteApple","key":"csp_LiteApple","filterable":1,"name":"🍎 苹果","type":3},
 {"key": "csp_DiDuan","name": "🚚 低端","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
