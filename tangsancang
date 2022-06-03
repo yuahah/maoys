@@ -1,57 +1,44 @@
 {
 
 "spider": "img+http://inews.gtimg.com/newsapp_ls/0/14967632106/0",
-
+//"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/fenghe/m0601_sj_pg.jar",
 "wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
 "sites" : [
 
 {"name" : "📺 爬虫"},
-//{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
+{"api":"csp_Kmys","key":"csp_Kmys","filterable":1,"name":"酷猫","type":3},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"🏩 七七","type":3},
 {"api":"csp_LiteApple","key":"csp_LiteApple","filterable":1,"name":"🍎 苹果","type":3},
 {"key": "csp_DiDuan","name": "🚚 低端","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_DY1990","name":"🌋 990","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-
-
-{"key":"csp_GitCafe","name":"🚀 纸条","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"ملاحظة"},
+{"key":"csp_GitCafe","name":"🚀 纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱 猫搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+
 {"name":"📺 推送"},
 {"key":"push_agent","name":"🎏 推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 
 {"name":"📺 资源站"},
 {"key":"8090资源(含官采)","name":"⏰ 8090资源","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"m3u8资源(含官采)","name":"👠 m3u8资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?
-ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"江北资源","name":"🔔 江北资源","type":1,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/?
-ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"name" : "XPath"},
+{"key":"m3u8资源(含官采)","name":"👠 m3u8资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"江北资源","name":"🔔 江北资源","type":1,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+
+{"name" : "📺 XPath"},
 
 {"name":"📺 M"},
 {"key":"csp_appysv2_兄弟影视","name":"🎎 兄弟影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 
 {"name":"📺 BiuBiu"},
-{"key":"csp_biubiu_ssdy","name":"🎧 双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/
-
-d/maoys/git/raw/master/Xbiubiu-json/1010dy.json"},
-
-{"key":"csp_biubiu_qyyy","name":"📻 奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/
-
-d/maoys/git/raw/master/Xbiubiu-json/qyyy.json"},
-
-{"key":"csp_biubiu_lezhutv","name":"🐷 乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/
-
-d/maoys/git/raw/master/Xbiubiu-json/lezhutv.json"},
-
-{"key":"csp_biubiu_厂长资源-蓝光","name":"😂 厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/
-
-d/maoys/git/raw/master/Xbiubiu-json/changzhang.json"}
+{"key":"csp_biubiu_ssdy","name":"🎧 双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/Xbiubiu-json/1010dy.json"},
+{"key":"csp_biubiu_qyyy","name":"📻 奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/Xbiubiu-json/qyyy.json"},
+{"key":"csp_biubiu_lezhutv","name":"🐷 乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/Xbiubiu-json/lezhutv.json"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"😂 厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/Xbiubiu-json/changzhang.json"}
 
 
 
 ],
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":
 
-["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
+
 "parses": [
     {
       "name": "Json并发",
@@ -264,9 +251,8 @@ d/maoys/git/raw/master/Xbiubiu-json/changzhang.json"}
     }
 
   ],
-"flags" : [ "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili","duoduozy", "renrenmi" ,"优
+"flags" : [ "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili","duoduozy", "renrenmi" ,"优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩","哔哩","zy1080","4k蓝光","内部蓝光"],
 
-酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩","哔哩","zy1080","4k蓝光","内部蓝光"],
 "ijk" : [
 {"group" : "软解码", "options" : [
 {"category" : 4, "name" : "opensles", "value" : "0"},
