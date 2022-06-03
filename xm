@@ -1,8 +1,8 @@
 {
 
 "wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
-"spider":"img+http://inews.gtimg.com/newsapp_ls/0/14968601681/0"
-//"spider":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/xm/xm_shao.txt"
+//spider":"img+http://inews.gtimg.com/newsapp_ls/0/14968601681/0"
+"spider":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/xm/xm_shao.txt"
 
 "sites":[
 
