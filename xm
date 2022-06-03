@@ -1,7 +1,10 @@
 {
-"sites":
 
-[
+"wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
+"spider":"img+http://inews.gtimg.com/newsapp_ls/0/14968601681/0"
+//"spider":"https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/xm/xm_shao.txt"
+
+"sites":[
 
 {"key":"csp_NaNa","name":"📺 默认首页-七七","type":3,"api":"csp_ColaCat","searchable":0,"quickSearch":0,"filterable":0,"ext":"سبعة وسبعة"},
 
@@ -231,6 +234,7 @@
       ]
     }
   ],
+  
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
@@ -289,7 +293,9 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
+  ]
 
-"wallpaper":"https://s4.ax1x.com/2022/02/16/HWLiIH.jpg",
-"spider":"img+http://inews.gtimg.com/newsapp_ls/0/14968601681/0"}
+
+
+
+}
