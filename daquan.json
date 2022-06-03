@@ -2042,8 +2042,9 @@
     }
   ],
 
+"spider": "img+http://inews.gtimg.com/newsapp_ls/0/14967632106/0",
 
-"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/fenghe/tang_sancang.jar",
+//"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/fenghe/tang_sancang.jar",
 
 //"spider" : "https://maoyingshitv.coding.net/p/maoyingshi/d/maoys/git/raw/master/zhanglaojar/custom_spider.jar",
   
